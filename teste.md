@@ -12,9 +12,9 @@ CSS (Cascading Style Sheets): Controla a apresentação e o estilo visual das p�
 JavaScript: Adiciona interatividade e comportamento dinâmico às páginas web, como validação de formulários e manipulação de eventos.
 
 # 4) Qual é a diferença entre os conceitos de tag, elemento e atributo, no contexto do HTML?
-- Tag: É a marcação usada para definir o início e o fim de um elemento HTML (ex: <p>, </p>).
-- Elemento: É a combinação da tag de abertura, o conteúdo e a tag de fechamento (ex: <p>Estou por aqui</p>).
-- Atributo: São informações adicionais fornecidas dentro da tag de abertura para modificar o comportamento ou as propriedades de um elemento (ex: <img src="imagem.jpg" alt="Imagem">).
+Tag: É a marcação usada para definir o início e o fim de um elemento HTML (ex: < p>, < /p>).
+Elemento: É a combinação da tag de abertura, o conteúdo e a tag de fechamento (ex: < p>Estou por aqui< /p>).
+Atributo: São informações adicionais fornecidas dentro da tag de abertura para modificar o comportamento ou as propriedades de um elemento (ex: <img src=".imagem.jpg" alt=".Imagem">).
 
 # 5) Desenvolva um documento HTML mínimo que contenha um parágrafo com a frase “Estou por aqui”, tenha o título “minha página” e use a codificação de caracteres utf-8.
 .<html>
