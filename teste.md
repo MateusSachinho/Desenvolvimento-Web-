@@ -44,8 +44,8 @@ Um processo é uma instância de um programa em execução. No contexto da inter
 # 10) Explique o que é SSL, no contexto da internet.
 SSL (Secure Sockets Layer) é um protocolo de segurança que criptografa a comunicação entre o cliente e o servidor, garantindo que os dados transmitidos sejam protegidos contra interceptação e manipulação. Ele foi substituído pelo TLS (Transport Layer Security), que oferece maior segurança.
 
-# 11) Em um documento HTML, quantos são os filhos do nó raiz? Há limite para o número de descendentes do nó raiz? 
-Justifique sua resposta.O nó raiz de um documento HTML é o elemento <html>. Ele tem dois filhos diretos: <head> e <body>. Não há limite para o número de descendentes do nó raiz, pois o HTML é flexível e suporta a inclusão de diversos elementos dentro de <head> e <body>.
+# 11) Em um documento HTML, quantos são os filhos do nó raiz? Há limite para o número de descendentes do nó raiz? Justifique sua resposta.
+O nó raiz de um documento HTML é o elemento < html>. Ele tem dois filhos diretos: < head> e  <body>. Não há limite para o número de descendentes do nó raiz, pois o HTML é flexível e suporta a inclusão de diversos elementos dentro de <head> e <body>.
 
 # 12) Elementos de marcação e semântica no HTML:
 ## Elementos de marcação/organização:
