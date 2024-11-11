@@ -1,0 +1,25 @@
+body h2{
+    font-size: 20rem;
+}  
+
+div#um{
+    background-color: blue;
+}
+
+span{
+    font-family: "Roboto", sans-serif;
+}
+
+div#dois{
+    width: 1px;
+}
+
+div#tree{
+    width: 10vmax;
+}
+
+span#um{
+    font-weight: bold;
+    background-color: lightskyblue;
+    color: red
+}
